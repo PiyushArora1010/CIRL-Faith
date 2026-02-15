@@ -18,7 +18,6 @@ unsloth_*/
 .gradio/
 
 logs/
-*.sh
 exp_*.py
 grpo*/
 
